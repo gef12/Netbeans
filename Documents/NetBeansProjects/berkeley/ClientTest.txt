@@ -1,0 +1,150 @@
+###########################################
+Tempo Cliente Envio: 1497699753417
+Tempo do Servidor Recebimento: 1497699753579
+Tempo do Servidor Envio: 1497699753650
+Tempo Cliente Recebimento: 1497699753750
+*** RTT ***
+a -> (t3 - t0) = 333
+b -> (t2 - t1) = 71
+*** RTT divido por 2 ***
+(a-b)/2 =  131
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 112
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699753781
+Horario de Cristian -> t2 + (rtt_offset): 1497699753762
+###########################################
+Tempo Cliente Envio: 1497699759365
+Tempo do Servidor Recebimento: 1497699759501
+Tempo do Servidor Envio: 1497699759576
+Tempo Cliente Recebimento: 1497699759676
+*** RTT ***
+a -> (t3 - t0) = 311
+b -> (t2 - t1) = 75
+*** RTT divido por 2 ***
+(a-b)/2 =  118
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 86
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699759694
+Horario de Cristian -> t2 + (rtt_offset): 1497699759662
+###########################################
+Tempo Cliente Envio: 1497699765366
+Tempo do Servidor Recebimento: 1497699765486
+Tempo do Servidor Envio: 1497699765555
+Tempo Cliente Recebimento: 1497699765656
+*** RTT ***
+a -> (t3 - t0) = 290
+b -> (t2 - t1) = 69
+*** RTT divido por 2 ***
+(a-b)/2 =  110
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 70
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699765665
+Horario de Cristian -> t2 + (rtt_offset): 1497699765625
+###########################################
+Tempo Cliente Envio: 1497699771365
+Tempo do Servidor Recebimento: 1497699771537
+Tempo do Servidor Envio: 1497699771663
+Tempo Cliente Recebimento: 1497699771763
+*** RTT ***
+a -> (t3 - t0) = 398
+b -> (t2 - t1) = 126
+*** RTT divido por 2 ***
+(a-b)/2 =  136
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 122
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699771799
+Horario de Cristian -> t2 + (rtt_offset): 1497699771785
+###########################################
+Tempo Cliente Envio: 1497699777365
+Tempo do Servidor Recebimento: 1497699777492
+Tempo do Servidor Envio: 1497699777579
+Tempo Cliente Recebimento: 1497699777679
+*** RTT ***
+a -> (t3 - t0) = 314
+b -> (t2 - t1) = 87
+*** RTT divido por 2 ***
+(a-b)/2 =  113
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 77
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699777692
+Horario de Cristian -> t2 + (rtt_offset): 1497699777656
+###########################################
+Tempo Cliente Envio: 1497699783365
+Tempo do Servidor Recebimento: 1497699783493
+Tempo do Servidor Envio: 1497699783571
+Tempo Cliente Recebimento: 1497699783671
+*** RTT ***
+a -> (t3 - t0) = 306
+b -> (t2 - t1) = 78
+*** RTT divido por 2 ***
+(a-b)/2 =  114
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 78
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699783685
+Horario de Cristian -> t2 + (rtt_offset): 1497699783649
+###########################################
+Tempo Cliente Envio: 1497699789366
+Tempo do Servidor Recebimento: 1497699789493
+Tempo do Servidor Envio: 1497699789570
+Tempo Cliente Recebimento: 1497699789670
+*** RTT ***
+a -> (t3 - t0) = 304
+b -> (t2 - t1) = 77
+*** RTT divido por 2 ***
+(a-b)/2 =  113
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 77
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699789683
+Horario de Cristian -> t2 + (rtt_offset): 1497699789647
+###########################################
+Tempo Cliente Envio: 1497699795366
+Tempo do Servidor Recebimento: 1497699795502
+Tempo do Servidor Envio: 1497699795582
+Tempo Cliente Recebimento: 1497699795682
+*** RTT ***
+a -> (t3 - t0) = 316
+b -> (t2 - t1) = 80
+*** RTT divido por 2 ***
+(a-b)/2 =  118
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 86
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699795700
+Horario de Cristian -> t2 + (rtt_offset): 1497699795668
+###########################################
+Tempo Cliente Envio: 1497699801366
+Tempo do Servidor Recebimento: 1497699801499
+Tempo do Servidor Envio: 1497699801573
+Tempo Cliente Recebimento: 1497699801674
+*** RTT ***
+a -> (t3 - t0) = 308
+b -> (t2 - t1) = 74
+*** RTT divido por 2 ***
+(a-b)/2 =  117
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 83
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699801690
+Horario de Cristian -> t2 + (rtt_offset): 1497699801656
+###########################################
+Tempo Cliente Envio: 1497699807365
+Tempo do Servidor Recebimento: 1497699807522
+Tempo do Servidor Envio: 1497699807599
+Tempo Cliente Recebimento: 1497699807699
+*** RTT ***
+a -> (t3 - t0) = 334
+b -> (t2 - t1) = 77
+*** RTT divido por 2 ***
+(a-b)/2 =  128
+*** RTT Offset ***
+Theta -> (t1 - t0) + (t2 - t3 ) / 2 = 107
+*** Horario de Cristian ***
+Horario de Cristian -> t2 + (rtt/2): 1497699807727
+Horario de Cristian -> t2 + (rtt_offset): 1497699807706
