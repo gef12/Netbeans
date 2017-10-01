@@ -1,0 +1,6 @@
+5
+fogo;fogo.jpg
+galo;galo.jpg
+parede;parede.jpg
+papagaio;papagaio.jpg
+piano;piamo.jpg

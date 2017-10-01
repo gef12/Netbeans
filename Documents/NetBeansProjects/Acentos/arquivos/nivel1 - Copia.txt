@@ -1,0 +1,7 @@
+5
+bala~;bala.gif
+barata;barata.jpg
+abacate;abagate.jpg
+arara;arara.jpg
+caroca;arara.jpg
+
